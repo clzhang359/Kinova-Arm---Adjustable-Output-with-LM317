@@ -25,5 +25,11 @@ Firstly, how much voltage and current does your voltage require?
 - If it requires **more than 1.5A**, then **do not** use this PCB design.
 - If it requires **more than 24V & less than 1.5A**, then **do not** use the LM317 or this PCB.
 
-## I can use this PCB! Yay! 😄 Now what?
-
+## Parts List:
+- 1 x LM317
+- 1 x 0.1uF capacitor
+- 1 x 10uF capacitor
+- 1 x 1uF capacitor
+- 2 x 1N4001 diodes
+- 1 x 1kΩ resistor
+- 1 x 3-prong 10kΩ variable resistor
