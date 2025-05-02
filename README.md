@@ -15,7 +15,7 @@ This PCB goes on the Kinova Arm's End Effector and matches the provided pinout a
 
 This specific device was chosen since (a) it was available at the HIVE makerspace, (b) I have used this in a previous class, and (c) the project fit the application.
 
-The [LM317]([https://www.ti.com/lit/ds/symlink/lm117.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1726162841584&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Flm117](https://www.st.com/resource/en/datasheet/lm217.pdf)) is an adjustable voltage regulator that can input up to 40V and output anywhere between the provided input and 1.25V and up to 1.5A.
+The [LM317](https://www.st.com/resource/en/datasheet/lm217.pdf) is an adjustable voltage regulator that can input up to 40V and output anywhere between the provided input and 1.25V and up to 1.5A.
 
 ## Should I use this PCB for my project with my Kinova Arm?
 
