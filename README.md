@@ -7,7 +7,7 @@ The 24V output of the Kinova Arm was too much for the microscope's motor (12V/1.
 
 This PCB Design was made in KiCAD.
 
-The LM317 [1] is an adjustable voltage regulator that can input up to 40V and output anywhere between the provided input and 1.25V and up to 1.5A.
+The [LM317](https://www.ti.com/lit/ds/symlink/lm117.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1726162841584&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Flm117) is an adjustable voltage regulator that can input up to 40V and output anywhere between the provided input and 1.25V and up to 1.5A.
 
 ## Should I use this PCB for my project with my Kinova Arm?
 
@@ -17,5 +17,5 @@ Firstly, how much voltage and current does your voltage require?
 - If it requires **more than 1.5A**, then **do not** use this PCB design.
 - If it requires **more than 24V & less than 1.5A**, then **do not** use the LM317 or this PCB.
 
-## Reference: 
-[1] https://www.ti.com/lit/ds/symlink/lm117.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1726162841584&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Flm117
+## I can use this PCB! Yay! 😄 Now what?
+
