@@ -17,6 +17,10 @@ This specific device was chosen since (a) it was available at the HIVE makerspac
 
 The [LM317](https://www.st.com/resource/en/datasheet/lm217.pdf) is an adjustable voltage regulator that can input up to 40V and output anywhere between the provided input and 1.25V and up to 1.5A.
 
+This schematic was taken from the datasheet has protection diodes to prevent any input short circuit and capacitance short circuit during capacitance discharge.
+
+![PCB Schematic](/../main/images/schematic.png)
+
 ## Should I use this PCB for my project with my Kinova Arm?
 
 Firstly, how much voltage and current does your voltage require?
