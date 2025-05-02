@@ -1,6 +1,7 @@
 # PCB for Adjusting the Voltage Output from the Kinova Arm with an LM317
-_Last Updated: 2025/05/02
-This repo was made by Connie L. Zhang at Georgia Tech at the SAFE Robotics Lab as a part of the Farmhand Project._
+_This repo was made by Connie L. Zhang at Georgia Tech at the SAFE Robotics Lab as a part of the Farmhand Project._
+
+_Last Updated: 2025/05/02_
 
 The 24V output of the Kinova Arm was too much for the microscope's motor (12V/1.5A), so the LM317 was applied to decrease the output voltage. This specific device was chosen since (a) it was available at the HIVE makerspace and (b) I have used this in a previous class.
 
